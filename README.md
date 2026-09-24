@@ -13,7 +13,7 @@ Mô tả ngắn về project.
 Clone project về máy:
 
 ```bash
-git clone https://github.com/[USERNAME/PROJECT_NAME](https://github.com/chufeebanhton/product-mn-demo.git
+git clone https://github.com/chufeebanhton/product-mn-demo.git
 ```
 
 Đi vào thư mục project:
